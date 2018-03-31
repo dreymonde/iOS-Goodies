@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Ice](https://github.com/jakeheis/Ice) - A developer friendly package manager for Swift; 100% compatible with Swift Package Manager, by [@jakeheis](https://twitter.com/jakeheis)
 
 **Business/Career**
 
